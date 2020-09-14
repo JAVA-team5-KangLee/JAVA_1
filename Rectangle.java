@@ -8,8 +8,8 @@
 public class Rectangle
 {
     // instance variables - replace the example below with your own
-    private int width;
-    private int height;
+    int width;
+    int height;
     
     /**
      * Constructor for objects of class Rectangle
